@@ -39,6 +39,12 @@ Non ces deux variants ne sont pas dans la base de données GnomAD
 
 ## Exercice 2
 ### Q1
-Texte de votre réponse…
+a) OMIM est une base de données qui repértorie tous les gènes humains et leur phénotypes. Il donnne accès également à toutes les maladies génétiques connues qui affectent les humains.
+
+b) DDG2P gene list relie les différents génotypes qui provoquent des retards de développement aux mécanismes qui sont capables d'activer les variants responsables de ces retards.
+
 ### Q2
-Texte de votre réponse…
+La classification est basée sur des informations cliniques, génétiques, in vitro, in vivo et in silico.
+
+### Q4
+La technique utilisée pour l'exploration des patients 1 et 2 est le whole exome sequencing. C'est une technique génomique pour sequencer tous les gènes codant des protéines c'est à dire les exomes. Il y a deux étapes : en premier sélectionner les fragments d'ADN contenant uniquement les régions codantes. Puis il faut séquencer tous ces exons en utilisant le séquencage haut débit. 
